@@ -1,0 +1,11 @@
+/* ManageOrders.css */
+@media (max-width: 576px) {
+  .table th,
+  .table td {
+    font-size: 14px;
+  }
+
+  .container {
+    padding: 0 1rem;
+  }
+}
